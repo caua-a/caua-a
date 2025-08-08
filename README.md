@@ -1,26 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=4A90E2&center=true&vCenter=true&width=480&lines=Hello+there!+I'm+Cau%C3%A3+Gustavo;Aspiring+Developer+%F0%9F%92%BB;Learning+Python,+MySQL,+CSS+and+HTML" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=E0E0E0&center=true&vCenter=true&width=480&lines=Olá,+sou+o+Cau%C3%A3+Gustavo;Futuro+Engenheiro+de+Software;Estudando+Python,+MySQL,+HTML+e+CSS" alt="Animação de digitação" />
 </div>
 
-### 👋 Welcome!
+### 👋 Seja bem-vindo!
 
-I'm **Cauã Gustavo Ferreira Silva**, an aspiring developer focused on mastering **Python**, **MySQL**, **CSS**, and **HTML**.  
-I’m building a solid foundation to grow in the tech world and deliver meaningful projects. 🚀
+Sou **Cauã Gustavo Ferreira Silva**, estudante técnico em Desenvolvimento de Sistemas no SENAI,  
+atualmente focado em **Python**, **MySQL (Banco de Dados)**, **HTML** e **CSS**.
+
+Meu objetivo é cursar Engenharia de Software e construir uma carreira de sucesso na área de tecnologia.
 
 ---
 
 <div align="center">
-  <a href="https://github.com/caua-a" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <a href="mailto:gustavocaua934@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-E0E0E0?style=for-the-badge&logo=gmail&logoColor=CC0000&color=20232A" alt="Badge de Email" />
   </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://www.linkedin.com/in/cau%C3%A3-gustavo-ferreira-silva-abb717353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E0E0E0?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=20232A" alt="Badge do LinkedIn" />
+  </a>
+  <a href="https://github.com/caua-a" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-E0E0E0?style=for-the-badge&logo=github&logoColor=ffffff&color=20232A" alt="Badge do GitHub" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" />
@@ -31,20 +36,9 @@ I’m building a solid foundation to grow in the tech world and deliver meaningf
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-a&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-a&layout=compact&theme=vue&hide_border=true" alt="Top Languages" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caua-a&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-a&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="140" />
 </div>
-
----
-
-### 🎯 Goals & Learning
-
-- Master Python 🐍 and build solid projects  
-- Deepen knowledge in MySQL 🗄️ for data management  
-- Develop responsive websites with HTML & CSS 🌐  
-- Keep learning and sharing knowledge to grow professionally  
-
----
