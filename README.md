@@ -5,7 +5,7 @@
 ### 👋 Seja bem-vindo!
 
 Sou **Cauã Gustavo Ferreira Silva**, estudante técnico em Desenvolvimento de Sistemas no SENAI,  
-atualmente focado em **Python**, **MySQL (Banco de Dados)**, **HTML** e **CSS**.
+atualmente focado em **Python**, **MySQL**, **HTML** e **CSS**.
 
 Meu objetivo é cursar Engenharia de Software e construir uma carreira de sucesso na área de tecnologia.
 
